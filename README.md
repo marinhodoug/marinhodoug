@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1A,40:142B50,75:1D4ED8,100:080D1A&height=200&section=header&text=Marinho&fontSize=65&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE&descSize=16&descAlignY=62&descColor=93C5FD" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1A,40:142B50,75:1D4ED8,100:080D1A&height=200&section=header&text=Douglas 
+Marinho&fontSize=65&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE&descSize=16&descAlignY=62&descColor=93C5FD" />
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3500&pause=1200&color=60A5FA&center=true&vCenter=true&width=650&lines=Transformando+dados+em+decis%C3%B5es.;Business+Intelligence+%26+Analytics.;Data+Driven+Solutions." />
