@@ -65,7 +65,7 @@ Tenho interesse especial em:
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 
 <h2 align="center">🚀 Featured Projects</h2>
