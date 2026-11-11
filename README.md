@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About me
 
-Olá! Sou Douglas, profissional de dados com formação em Ciência de Dados e experiência em Business Intelligence, análise de indicadores, performance e otimização de processos.
+Olá! Meu nome é Douglas, profissional de dados com formação em Ciência de Dados e experiência em Business Intelligence, análise de indicadores, performance e otimização de processos.
 
 Meu foco é transformar dados em informações estratégicas, desenvolvendo soluções que conectam tecnologia, análise e objetivos de negócio.
 
