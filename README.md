@@ -1,21 +1,28 @@
 <!-- HEADER -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1A,40:142B50,75:1D4ED8,100:080D1A&height=200&section=header&text=Douglas+Marinho&fontSize=65&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE&descSize=16&descAlignY=62&descColor=93C5FD" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1D4ED8,100:0F172A&height=180&section=header&text=Douglas+Marinho&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE&descAlignY=60&descSize=15" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3500&pause=1200&color=60A5FA&center=true&vCenter=true&width=650&lines=Transformando+dados+em+decis%C3%B5es.;Business+Intelligence+%26+Analytics.;Data+Driven+Solutions." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Transformando+dados+em+decis%C3%B5es.;Business+Intelligence+%26+Data+Analytics.;Data+Driven+Solutions." alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/SEU_USUARIO" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
-
 
 ---
 
 ## 👨‍💻 About me
 
-Olá! Meu nome é Douglas, profissional de dados com formação em Ciência de Dados e experiência em Business Intelligence, análise de indicadores, performance e otimização de processos.
+Olá! Sou Douglas, profissional de dados com formação em Ciência de Dados e experiência em Business Intelligence, análise de indicadores, performance e otimização de processos.
 
 Meu foco é transformar dados em informações estratégicas, desenvolvendo soluções que conectam tecnologia, análise e objetivos de negócio.
 
@@ -122,18 +129,3 @@ Estou sempre aberto a trocar conhecimentos, compartilhar projetos e explorar nov
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:111827&height=100&section=footer" />
 
 </div>
-
-<!--
-**marinhodoug/marinhodoug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
