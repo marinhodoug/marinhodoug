@@ -1,22 +1,15 @@
 <!-- HEADER -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1D4ED8,100:0F172A&height=180&section=header&text=Marinho&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE&descAlignY=60&descSize=15" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1A,40:142B50,75:1D4ED8,100:080D1A&height=200&section=header&text=MARINHO&fontSize=65&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE&descSize=16&descAlignY=62&descColor=93C5FD" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Transformando+dados+em+decis%C3%B5es.;Business+Intelligence+%26+Data+Analytics.;Data+Driven+Solutions." alt="Typing SVG" />
-</a>
-
-<br/>
-
-<a href="https://www.linkedin.com/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/SEU_USUARIO" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3500&pause=1200&color=60A5FA&center=true&vCenter=true&width=650&lines=Transformando+dados+em+decis%C3%B5es.;Business+Intelligence+%26+Analytics.;Data+Driven+Solutions." />
 </a>
 
 </div>
+
 
 ---
 
