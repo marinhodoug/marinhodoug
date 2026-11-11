@@ -80,17 +80,21 @@ Tenho interesse especial em:
 
 ## 📈 GitHub Analytics
 
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=marinhodoug&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinhodoug&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<br/>
+<br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
+<img width="75%" src="https://streak-stats.demolab.com?user=marinhodoug&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 ---
 
