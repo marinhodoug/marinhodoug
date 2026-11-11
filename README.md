@@ -67,12 +67,68 @@ Tenho interesse especial em:
 
 ## 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| 📊 Business Intelligence Dashboard | Dashboard executivo com indicadores e KPIs | Power BI, DAX |
-| 🐍 Data Analysis | Análise exploratória, tratamento e visualização de dados | Python, Pandas |
-| 🗄️ SQL Analytics | Consultas avançadas e análise de bases de dados | SQL, PostgreSQL |
-| ⚡ Process Automation | Automação de relatórios e processos operacionais | Power Automate |
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+### 📊 Business Intelligence
+
+Dashboard de indicadores, KPIs e análise de performance.
+
+**Power BI · DAX · Power Query**
+
+<a href="https://github.com/marinhodoug/power-bi-business-intelligence">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%" align="center">
+
+### 🐍 Data Analytics
+
+Análise exploratória, tratamento e visualização de dados.
+
+**Python · Pandas · Matplotlib**
+
+<a href="https://github.com/marinhodoug/python-data-analytics">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 🗄️ SQL Analytics
+
+Consultas avançadas, CTEs, JOINs e indicadores.
+
+**SQL · PostgreSQL**
+
+<a href="https://github.com/marinhodoug/sql-business-analysis">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%" align="center">
+
+### ⚡ Process Automation
+
+Automação de relatórios e processos operacionais.
+
+**Power Automate · Data**
+
+<a href="https://github.com/marinhodoug/data-process-automation">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
 
 > Os projetos serão adicionados aqui conforme forem publicados nos repositórios.
 
