@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1D4ED8,100:0F172A&height=180&section=header&text=Douglas&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE&descAlignY=60&descSize=15" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1D4ED8,100:0F172A&height=180&section=header&text=Marinho&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE&descAlignY=60&descSize=15" />
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Transformando+dados+em+decis%C3%B5es.;Business+Intelligence+%26+Data+Analytics.;Data+Driven+Solutions." alt="Typing SVG" />
